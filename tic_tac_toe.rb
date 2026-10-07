@@ -97,5 +97,5 @@ module TicTacToe
 end
 
 # To run the game:
-include TicTacToe
-Game.new.play
+# include TicTacToe
+# Game.new.play
